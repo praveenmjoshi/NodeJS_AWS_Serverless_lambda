@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-aws-serverless-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenmjoshi/NodeJS_AWS_Serverless_lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenmjoshi/NodeJS_AWS_Serverless_lambda/issues"
+  },
+  "homepage": "https://github.com/praveenmjoshi/NodeJS_AWS_Serverless_lambda#readme"
+}
