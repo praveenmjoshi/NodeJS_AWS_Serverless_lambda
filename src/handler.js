@@ -1,6 +1,6 @@
 'use strict';
 
 module.exports.randomNumberGenerator = async (event) => {
-  const randomNumber = parseInte( Math.random() * 100 );
+  const randomNumber = parseInt( Math.random() * 100 );
   return randomNumber;
 };
